@@ -11,13 +11,13 @@ Features
 
 Insights Covered
 
-  Loan distribution by type and region
-  Outstanding loan amounts and aging analysis
-  Repayment trends and performance tracking
-  Customer segmentation and demographic analysis
+  Loan distribution by type and region. 
+  Outstanding loan amounts and aging analysis. 
+  Repayment trends and performance tracking. 
+  Customer segmentation and demographic analysis. 
 
 Tools Used
 
-  Excel (formulas, pivot tables, charts)
-  Power Query for data transformation and cleaning
+  Excel (formulas, pivot tables, charts), 
+  Power Query for data transformation and cleaning, 
   Dashboard design principles for clarity and interactivity
